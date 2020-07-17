@@ -1,5 +1,5 @@
 ### Hi Every one 👋
-## iam Ali 32 yers Old from Egypt 
+## Iam Ali 32 yers Old from Egypt 
 
 - 🔭 I’m currently working on improving my self in web-development 
 - 🌱 I’m currently learning  advanced JS patterns and algorithms  and Vue.js 
