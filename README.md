@@ -7,6 +7,7 @@
 - 🤔 I’m looking for help with  Vue.js
 - 💬 Ask me about   (html5 ,css ,css3 ,sass ,js ,nodejs ,working with APIs) 
 - 📫 How to reach me: through dev.ed.egy@gmail.com
-- 😄 Pronouns: he/him
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arigatouz)](https://github.com/anuraghazra/github-readme-stats)
+
 - ⚡ Fun fact: i love rapping  , and well experienced in diet systems and workout 
 -->
