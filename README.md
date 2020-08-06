@@ -13,7 +13,5 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arigatouz&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arigatouz&hide=javascript,html&theme=tokyonight)](https://github.com/Arigatouz/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arigatouz)](https://github.com/Arigatouz/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arigatouz&hide=javascript,html)](https://github.com/Arigatouz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arigatouz&theme=tokyonight)](https://github.com/Arigatouz/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arigatouz&layout=compact)](https://github.com/Arigatouz/github-readme-stats)
