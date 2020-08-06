@@ -13,3 +13,4 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arigatouz)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arigatouz&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arigatouz&show_icons=true&theme=radical)
