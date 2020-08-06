@@ -13,6 +13,10 @@
 <br />
 
 ---
+## Contact Me :
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ### Languages and Tools I can use 💪💪💪💪💪:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -36,3 +40,10 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arigatouz&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arigatouz&hide=html&theme=tokyonight)](https://github.com/Arigatouz/github-readme-stats)
 
+
+
+
+
+[instagram] : https://www.instagram.com/dev.ed.egy/
+[linkedin] : https://www.linkedin.com/in/ali-gamal-ali-419ab11a8/
+[twitter] : https://twitter.com/Ali_GamalAli
