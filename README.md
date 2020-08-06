@@ -44,6 +44,6 @@
 
 
 
-[instagram] : https://www.instagram.com/dev.ed.egy/
+[instagram]: https://instagram.com/codeSTACKr
 [linkedin] : https://www.linkedin.com/in/ali-gamal-ali-419ab11a8/
 [twitter] : https://twitter.com/Ali_GamalAli
