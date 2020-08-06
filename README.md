@@ -11,6 +11,6 @@
 -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arigatouz&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arigatouz&hide=javascript,html)](https://github.com/Arigatouz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arigatouz&hide=javascript,html&theme=radical)](https://github.com/Arigatouz/github-readme-stats)
 
 
