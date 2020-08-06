@@ -21,4 +21,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arigatouz&hide=javascript,html)](https://github.com/Arigatouz/github-readme-stats)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Arigatouz&repo=github-readme-stats)](https://github.com/Arigatouz/github-readme-stats)
