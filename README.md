@@ -10,7 +10,7 @@
 - ⚡ Fun fact: i love rapping  , and well experienced in diet systems and workout 
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arigatouz&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arigatouz&hide=javascript,html&theme=dark)](https://github.com/Arigatouz/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arigatouz&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arigatouz&hide=javascript,html&theme=tokyonight)](https://github.com/Arigatouz/github-readme-stats)
 
 
