@@ -49,5 +49,5 @@
 
 
 [instagram]: https://instagram.com/dev.ed.egy/
-[linkedin]: https://www.linkedin.com/in/ali-gamal-ali-419ab11a8/
+[linkedin]: https://www.linkedin.com/in/alidevegy/
 [twitter]: https://twitter.com/Ali_GamalAli
