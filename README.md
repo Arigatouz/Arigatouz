@@ -30,10 +30,10 @@ const ali = {
   role:        "Frontend Team Lead @ Luftborn",
   location:    "Egypt 🇪🇬",
   currentWork: ["Angular full-stack projects", "AI integrations", "Developer tools"],
-  learning:    ["Advanced Angular Signals", "AI/LLM integration", "Micro Frontends"],
+  learning:    ["Module Federation", "AI/LLM integration", "Google ADK"],
   collaborateOn: ["Helping Angular Team find bugs", "Teaching people TypeScript", "AI-powered web applications"],
   lookingForHelpWith: ["AI Agents", "LangChain", "MCP server development"],
-  expertise:   ["Angular", "RxJS", "TypeScript", "Nx Monorepos", ""],
+  expertise:   ["Angular", "Signals Paradigm", "RxJS", "TypeScript", "Nx Monorepos"],
   funFact:     "Late-night coder 🌙 | Gamer 🎮 | Posting dev content on LinkedIn and Bluesky 🦋",
 };
 ```
