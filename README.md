@@ -183,11 +183,12 @@ const ali = {
 
 Issues I've opened in major projects:
 
-| Repo | Issue | Status |
-|------|-------|--------|
-| 🅰️ [angular/angular](https://github.com/angular/angular) | [Output signal wrong name, app still runs/builds](https://github.com/angular/angular/issues/67075) | ✅ closed |
-| 🅰️ [angular/angular](https://github.com/angular/angular) | [formControl.setValue inside a reactive context causes tracking of all signals](https://github.com/angular/angular/issues/67073) | ✅ closed |
-| 🤖 [anthropics/claude-code](https://github.com/anthropics/claude-code) | [[Bug] Azure-hosted plugins fail in marketplace with HTTP/SSH and `.git` extension requirements](https://github.com/anthropics/claude-code/issues/14499) | 🟢 open |
+| Repo | Issue | Labels | Status |
+|------|-------|--------|--------|
+| 🅰️ [angular/angular](https://github.com/angular/angular) | [Output signal wrong name, app still runs/builds](https://github.com/angular/angular/issues/67075) | `area: core` | ✅ closed |
+| 🅰️ [angular/angular](https://github.com/angular/angular) | [formControl.setValue inside reactive context causes tracking of all signals read by value/validity change subscribers](https://github.com/angular/angular/issues/67073) | `area: forms` | ✅ closed |
+| 🅰️ [angular/angular](https://github.com/angular/angular) | [Signal Forms dirty() state not updating when field values change from initial state](https://github.com/angular/angular/issues/64465) | `area: forms` `forms: signals` | ✅ closed |
+| 🤖 [anthropics/claude-code](https://github.com/anthropics/claude-code) | [[Bug] Azure-hosted plugins fail in marketplace with HTTP/SSH and `.git` extension requirements](https://github.com/anthropics/claude-code/issues/14499) | `bug` `has repro` | 🟢 open |
 
 ---
 
