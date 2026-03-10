@@ -201,7 +201,7 @@ Issues I've opened in major projects:
 
 ### 💬 A Quote I Live By
 
-> *"The best code is code that doesn't need to be written — until AI writes it for you."*
+> *"The developers who change the world aren't waiting for the perfect stack, they're already shipping.""*
 
 <br/>
 
