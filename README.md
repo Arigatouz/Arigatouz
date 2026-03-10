@@ -45,9 +45,9 @@ const ali = {
 
 | | |
 |---|---|
-| 🔭 **Working on** | Angular full-stack projects, AI integrations & developer tools |
+| 🔭 **Working on** | Angular Apps, 10x Cluade plugin, AI integrations & developer tools |
 | 🌱 **Learning** | AI/LLM integration · Google ADK · Agentic AI with LangChain · MCP server development |
-| 👯 **Collaborate on** | Angular · TypeScript · AI-powered web applications |
+| 👯 **Collaborate on** | Helping Angular Team find bugs · Teaching people TypeScript · Teaching NX · AI-powered web applications |
 | 🤝 **Need help with** | AI Agents · LangChain · MCP server development |
 | 💬 **Ask me about** | Angular · Signal Paradigm · RxJS · TypeScript · Nx Monorepos 
 | 🦋 **Bluesky** | [@arigatouz.bsky.social](https://bsky.app/profile/arigatouz.bsky.social) |
