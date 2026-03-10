@@ -34,9 +34,9 @@ const ali = {
   learning:     ["Module Federation", "AI/LLM integration", "Google ADK", "Agentic AI with LangChain"],
   collaborateOn:["Helping Angular Team find bugs", "Teaching people TypeScript", "AI-powered web applications"],
   lookingForHelpWith: ["AI Agents", "LangChain", "MCP server development"],
-  expertise:    ["Angular", "Signals Paradigm", "RxJS", "TypeScript", "Nx Monorepos", "FRontend Architecture"],
-  funFact:      "Late-night coder 🌙 | Gamer 🎮 (LoL, Arcane, Outlast Trials, Arc Raiders) | YouTuber 🎥 
-                  | Posting dev content on LinkedIn & Bluesky 🦋",
+  expertise:    ["Angular", "Signals Paradigm", "RxJS", "TypeScript", "Nx Monorepos", "Frontend Architecture"],
+  funFact:      "Late-night coder 🌙 | Gamer 🎮 (LoL, Arcane, Outlast Trials, Arc Raiders) | YouTuber 🎥" 
+                  "Posting dev content on LinkedIn & Bluesky 🦋",
 };
 ```
 
