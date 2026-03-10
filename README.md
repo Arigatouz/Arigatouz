@@ -52,6 +52,7 @@ const ali = {
 | 🤝 **Need help with** | AI Agents · LangChain · MCP server development |
 | 💬 **Ask me about** | Angular · Signal Paradigm · RxJS · TypeScript · Nx Monorepos 
 | 🦋 **Bluesky** | [@arigatouz.bsky.social](https://bsky.app/profile/arigatouz.bsky.social) |
+| [![LinkedIn](https://img.shields.io/badge/in-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alidevegy/) **LinkedIn** | [Ali G.](https://www.linkedin.com/in/alidevegy) |
 | 📫 **Reach me** | hictors@gmail.com |
 
 ---
