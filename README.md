@@ -207,7 +207,7 @@ Issues I've opened in major projects:
 
 ### 💬 A Quote I Live By
 
-> *"The developers who change the world aren't waiting for the perfect stack —*
+> *"The developers who change the world aren't waiting for the perfect stack *
 > *they're already shipping."*
 
 <br/>
