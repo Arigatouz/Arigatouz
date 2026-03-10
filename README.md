@@ -35,8 +35,8 @@ const ali = {
   collaborateOn:["Helping Angular Team find bugs", "Teaching people TypeScript", "AI-powered web applications"],
   lookingForHelpWith: ["AI Agents", "LangChain", "MCP server development"],
   expertise:    ["Angular", "Signals Paradigm", "RxJS", "TypeScript", "Nx Monorepos", "Frontend Architecture"],
-  funFact:      "Late-night coder 🌙 | Gamer 🎮 (LoL, Arcane, Outlast Trials, Arc Raiders) | YouTuber 🎥" 
-                  "Posting dev content on LinkedIn & Bluesky 🦋",
+  funFact:      "Late-night coder 🌙 | Gamer 🎮 (LoL, Arcane, Outlast Trials, Arc Raiders) | YouTuber 🎥 |" 
+                "Posting dev content on LinkedIn & Bluesky 🦋",
 };
 ```
 
