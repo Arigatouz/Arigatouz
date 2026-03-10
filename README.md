@@ -72,3 +72,150 @@ const ali = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Data & Visualization
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
+
+### Tools & Platforms
+![NX](https://img.shields.io/badge/NX-143055?style=for-the-badge&logo=nx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Testing
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Karma](https://img.shields.io/badge/Karma-429F6D?style=for-the-badge&logo=karma&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
+
+### AI & Emerging Tech
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude-6E40C9?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/Agentic_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=arigatouz&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏅 GitHub Achievements
+
+<div align="center">
+
+| Achievement | Tier | Description |
+|:-----------:|:----:|-------------|
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60"/><br/>**Pair Extraordinaire** | 🥇 ×3 | Coauthored pull requests merged |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60"/><br/>**Pull Shark** | 🥇 ×2 | Opened pull requests that got merged |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60"/><br/>**YOLO** | ⭐ | Merged a PR without a review |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60"/><br/>**Quickdraw** | ⭐ | Closed an issue or PR within 5 minutes |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="60"/><br/>**Arctic Code Vault** | ⭐ | Contributed to the 2020 GitHub Archive Program |
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arigatouz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FFFFFF)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 💡 Featured Project
+
+<div align="center">
+
+### 🤖 10x Claude Plugin
+
+
+> *AI-powered Angular & developer productivity plugin for Claude Code*
+
+![Claude](https://img.shields.io/badge/Powered%20by-Claude%20AI-6E40C9?style=for-the-badge&logo=anthropic&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge)
+
+</div>
+
+---
+
+## 🐛 Open Source Contributions
+
+Issues I've opened in major projects:
+
+| Repo | Issue | Labels | Status |
+|------|-------|--------|--------|
+| 🅰️ [angular/angular](https://github.com/angular/angular) | [Output signal wrong name, app still runs/builds](https://github.com/angular/angular/issues/67075) | `area: core` | ✅ closed |
+| 🅰️ [angular/angular](https://github.com/angular/angular) | [formControl.setValue inside reactive context causes tracking of all signals read by value/validity change subscribers](https://github.com/angular/angular/issues/67073) | `area: forms` | ✅ closed |
+| 🅰️ [angular/angular](https://github.com/angular/angular) | [Signal Forms dirty() state not updating when field values change from initial state](https://github.com/angular/angular/issues/64465) | `area: forms` `forms: signals` | ✅ closed |
+| 🤖 [anthropics/claude-code](https://github.com/anthropics/claude-code) | [[Bug] Azure-hosted plugins fail in marketplace with HTTP/SSH and `.git` extension requirements](https://github.com/anthropics/claude-code/issues/14499) | `bug` `has repro` | 🟢 open |
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] 🚀 Ship **10x-claude-plugin** to production
+- [ ] 🤖 Master multi-agent AI orchestration with Claude
+- [ ] 🌐 Contribute to 5+ major open source projects
+- [ ] 📝 Write about Angular + AI integration patterns
+- [ ] 🎤 Speak at a frontend conference
+
+---
+
+<div align="center">
+
+### 💬 A Quote I Live By
+
+> *"The developers who change the world aren't waiting for the perfect stack —*
+> *they're already shipping."*
+
+<br/>
+
+
+<br/>
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
