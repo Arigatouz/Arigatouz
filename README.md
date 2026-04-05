@@ -37,6 +37,7 @@ const ali = {
   expertise:    ["Angular", "Signals Paradigm", "RxJS", "TypeScript", "Nx Monorepos", "Frontend Architecture"],
   funFact:      "Late-night coder 🌙 | Gamer 🎮 (LoL, Arcane, Outlast Trials, Arc Raiders) | YouTuber 🎥 |" 
                 "Posting dev content on LinkedIn & Bluesky 🦋",
+  portfolio:    ["alidevhub.com"]
 };
 ```
 
@@ -54,6 +55,7 @@ const ali = {
 | 🦋 **Bluesky** | [@arigatouz.bsky.social](https://bsky.app/profile/arigatouz.bsky.social) |
 | [![LinkedIn](https://img.shields.io/badge/in-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alidevegy/) **LinkedIn** | [Ali G.](https://www.linkedin.com/in/alidevegy) |
 | 📫 **Reach me** | hictors@gmail.com |
+| 🌐 **Website** | [alidevhub.com](https://alidevhub.com) |
 
 ---
 
